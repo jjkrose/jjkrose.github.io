@@ -9,7 +9,7 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: 도토리 Challenge # blog's title
-  avatar: assets/img/ehxhfl.svg
+  avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
